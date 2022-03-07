@@ -1,0 +1,683 @@
+
+@media (max-width: 1200px) {
+    .slider-content h1 {
+        font-size: 47px;
+        margin-top: 8px;
+        margin-bottom: 16px;
+        font-weight: 500;
+        width: 100%;
+    }
+    .slider-content p {
+        width: 90%;
+        font-size: 18px;
+    }
+    .sliders {
+        height: 70vh;
+    }
+
+    .about-left {
+        margin-top: 18px;
+    }
+    .about-left-text {
+        right: 77px;
+        bottom: -16px;
+    }
+    .finix-text span {
+        color: rgb(231, 60, 62);
+        font-size: 16px;
+    }
+    .finix-text h3 {
+        font-size: 30px;
+        font-weight: 500;
+        color: #111;
+    }
+    .finix-text p {
+        font-size: 16px;
+    }
+    .finix-text strong {
+        font-size: 18px;
+    }
+
+
+
+    .client-logo ul li:last-child {
+        display: none;
+    }
+
+    .business-left h3 {
+        font-size: 30px;
+    }
+    .right-title h3 {
+        font-size: 34px;
+    }
+    .business-left {
+        margin-top: 0;
+        margin-bottom: 35px;
+    }
+
+    .call-bg-section {
+        padding: 55px 79px;
+    }
+    .row.c-section {
+        text-align: center;
+    }
+    .call-left-text h2 {
+        font-size: 34px;
+    }
+    .call-right-text {
+        display: flex;
+        justify-content: center;
+    }
+    .call-left-text h2 {
+        border-right: none;
+    }
+
+    .company-values-text h3 {
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    .company-text h4 {
+        font-size: 25px;
+    }
+    .company-text p {
+        font-size: 16px;
+    }
+    .company-right img {
+        margin-top: 132px;
+    }
+
+
+    .services li:nth-child(5) {
+        display: none;
+    }
+    .services li:last-child {
+        display: none;
+    }
+    .professional-service-section {
+        padding: 75px 0;
+    }
+
+    .service-pic {
+        margin-top: 87px;
+    }
+    .services-right-content h3 {
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
+    .services-right-content p {
+        font-size: 16px;
+    }
+
+    .client-text p {
+        font-size: 21px;
+    }
+    .clients-icons span {
+        bottom: 47px;
+        right: 247px;
+    }
+
+
+    .t-members {
+        width: 25%;
+    }
+    .team-bios h3 {
+        font-size: 20px;
+    }
+    .team-bios span {
+        font-size: 16px;
+    }
+
+
+    .all-images {
+        width: 33%;
+    }
+
+
+    .footer-section {
+        padding: 60px 0;
+    }
+    .f-item {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    .footer-items p {
+        font-size: 16px;
+    }
+    .contact-info {
+        padding: 0px 216px 0 35px;
+    }
+
+    .f-item:nth-child(3) {
+        margin-bottom: 0;
+    }
+    .f-item:last-child{
+        margin-bottom: 0;
+    }
+
+
+    .services li {
+        display: flex;
+        justify-content: center;
+    }
+    
+
+}
+
+
+
+@media (max-width: 1124px) {
+    .finix-pic img {
+        width: 130px;
+    }
+    .main-menu ul li a {
+        padding: 17px 9px;
+        font-size: 15px;
+    }
+    body .btn-primary {
+        padding: 10px 22px;
+        font-size: 15px;
+    }
+    
+}
+
+@media (max-width: 1035px) {
+    .main-menu ul li a {
+        padding: 15px 8px;
+        font-size: 14px;
+    }
+    body .btn-primary {
+        padding: 10px 19px;
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .main-menu ul li ul {
+        left: 94px;
+        z-index: 999;
+    }
+    .logo-section {
+        padding: 70px 0px;
+    }
+
+
+    .about-left {
+        margin-top: 0px;
+        text-align: center;
+        margin-bottom: 52px;
+    }
+    .about-left-text {
+        right: 254px;
+        bottom: -4px;
+    }
+    .finix-text h3 {
+        font-size: 36px;
+        font-weight: 400;
+    }
+
+
+    .sliders {
+        height: 65vh;
+    }
+    .slider-content h1 {
+        font-size: 40px;
+        width: 96%;
+        margin-bottom: 10px;
+    }
+    .slider-content p {
+        width: 90%;
+    }
+
+    .client-logo ul li:nth-child(3) {
+        display: none;
+    }
+
+
+    .chose {
+        padding: 65px 0px;
+    }
+    .chose-left {
+        text-align: center;
+    }
+    .chose-left span {
+        font-size: 16px;
+    }
+    .chose-left h1 {
+        font-size: 25px;
+        color: #111;
+    }
+    .chose-left p {
+        font-size: 16px;
+    }
+    
+
+
+    .chose-right {
+        padding: 31px 27px;
+    }
+    .chose-right p {
+        font-size: 17px;
+        line-height: 28px;
+        margin-bottom: 0;
+    }
+
+    .choose-box {
+        width: 50%;
+        margin-bottom: 8px;
+    }
+    .choose-box:nth-child(3){
+        margin-bottom: 0;
+    }
+    .choose-box:nth-child(4){
+        margin-bottom: 0;
+    }
+
+    .choose-items {
+        margin-top: 30px;
+    }
+
+
+    .all-same-title {
+        margin-bottom: 30px;
+    }
+    
+    .all-same-title span {
+        font-size: 16px !important;
+    }
+    .all-same-title h2 {
+        font-size: 35px !important;
+    }
+    .business-right {
+        padding: 26px 15px;
+    }
+    .business-left h3 {
+        font-size: 25px;
+    }
+    .business-items ul li strong {
+        font-size: 21px;
+    }
+    .business-items ul li p {
+        font-size: 16px;
+    }
+    .business-items ul::before {
+        top: 28px;
+    }   
+
+
+    .right-title span {
+        font-size: 16px;
+    }
+    .right-title h3 {
+        font-size: 36px;
+    }
+
+    .business-right .form-group label {
+        font-size: 16px;
+    }
+    .business-right .form-group input {
+        font-size: 16px;
+    }
+
+    .f-btn {
+        font-size: 16px !important;
+        padding: 12px 0 !important;
+    }
+
+    .c-section {
+        text-align: center;
+    }
+
+    .call-left-text h2 {
+        border-right: none;
+    }
+    .call-right-text a {
+        font-size: 30px;
+    }
+    .call-right-text {
+        margin-top: 14px;
+        margin-left: -10px;
+        display: flex;
+        justify-content: center; 
+    }
+    .call-bg-section {
+        padding: 35px 49px;
+    }
+
+    .company-values-section {
+        padding: 65px 0;
+    }
+    .company-values-text h3 {
+        font-size: 27px;
+        margin-bottom: 30px;
+    }
+    .company-text h4 {
+        font-size: 23px;
+    }
+    .company-text p {
+        font-size: 15px;
+    }
+    .company-right img {
+        margin-top: 16px;
+    }
+
+
+    .services li:nth-child(4) {
+        display: none;
+    }
+    .professional-service-section {
+        padding: 60px 0;
+    }
+    .service-pic {
+        margin-top: 0px;
+        margin-bottom: 33px;
+    }
+
+
+    .client-text p {
+        font-size: 17px;
+    }
+    .client-text h3 {
+        font-size: 15px;
+        margin-top: 16px;
+    }
+    .client-text span {
+        font-size: 14px;
+    }
+    .clients-icons span {
+        bottom: 21px;
+        right: 176px;
+    }
+
+
+    .team-bios h3 {
+        font-size: 18px;
+    }
+    .team-bios span {
+        font-size: 15px;
+    }
+
+    .success-section {
+        padding: 50px 0;
+    }
+    .all-same-title h2 {
+        font-size: 28px;
+    }
+
+
+    .contact-info {
+        padding: 0px 96px 0 35px;
+    }
+    
+
+}
+
+@media (max-width: 768px) {
+    .logo-section {
+        padding: 55px 0px;
+    }
+
+    .slider-content h1 {
+        font-size: 31px;
+        width: 100%;
+        font-weight: 500;
+    }
+    .slider-content p {
+        width: 76%;
+        font-size: 16px;
+    }
+
+    .about-left-text {
+        right: 163px;
+    }
+    .finix-text h3 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .finix-text p {
+        font-size: 15px;
+    }
+
+
+    .client-logo ul li:nth-child(2) {
+        display: none;
+    }
+
+
+    .chose {
+        padding: 55px 0px;
+    }
+    .choose-box {
+        width: 100%;
+        margin-top: 0 !important;
+        margin-bottom: 30px;
+    }
+    .choose-box:nth-child(3) {
+        margin-bottom: 30px;
+    }
+    .chose-right p {
+        font-size: 16px;
+    }
+
+    .business-section {
+        padding: 50px 0;
+    }
+    .all-same-title h2 {
+        font-size: 25px !important;
+    }
+    .business-items ul li strong {
+        font-size: 20px;
+    }
+
+    .right-title h3 {
+        font-size: 20px;
+    }
+
+
+    .call-left-text h2 {
+        font-size: 30px;
+    }
+    .call-bg-section {
+        padding: 25px 8px;
+    }
+
+    .services li:nth-child(3) {
+        display: none;
+    }
+    
+    .client-section {
+        padding: 50px 0;
+    }
+
+
+
+    .t-members {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .all-same-title h2 {
+        font-size: 30px;
+    }
+    .t-members:nth-child(3) {
+        margin-bottom: 0;
+    }
+    .t-members:nth-child(4) {
+        margin-bottom: 0;
+    }
+    .global-section {
+        padding: 60px 0;
+    }
+    .client-text {
+        text-align: center;
+        margin-bottom: 31px;
+    }
+    .client-text p {
+        font-size: 16px;
+    }
+    .client-picture img {
+        margin-left: 0px;
+        width: 85%;
+    }
+    .clients-icons span {
+        bottom: 69px;
+        right: 337px;
+    }
+
+
+
+    .success-section {
+        padding: 50px 0;
+    }
+    .all-same-title h2 {
+        font-size: 26px;
+    }
+    .all-images {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .all-images:last-child{
+        margin-bottom: 0;
+    }
+
+
+    .footer-section {
+        padding: 45px 0;
+    }
+    .f-item {
+        width: 100%;
+    }
+    .f-item:nth-child(3) {
+        margin-bottom: 30px;
+    }
+    .contact-info {
+        padding: 0px 35px 0 35px;
+    }
+    .contact-info span {
+        width: 100%;
+    }
+
+}
+
+
+
+@media (max-width: 576px) {
+    .logo-section {
+        padding: 40px 0px;
+    }
+
+    .slider-content p {
+        width: 92%;
+        font-size: 16px;
+    }
+    .slider-social {
+        bottom: -29px !important;
+    }
+
+    .about-left-text {
+        right: 140px;
+    }
+    .finix-text h3 {
+        font-size: 24px;
+    }
+
+    .call-right-text span {
+        width: 55px;
+        height: 55px;
+        margin-right: 18px;
+    }
+    .call-right-text a {
+        font-size: 25px;
+    }
+
+    .business-items ul::before {
+        top: 0px;
+    }
+
+    .client-section {
+        padding: 40px 0;
+    }
+    .all-same-title h2 {
+        font-size: 23px !important;
+    }
+    .all-same-title p {
+        max-width: 484px;
+        font-size: 14px;
+        
+    }
+    .client-text p {
+        font-size: 15px;
+    }
+
+
+    .global-section {
+        padding: 50px 0;
+    }
+    .all-same-title h2 {
+        font-size: 25px !important;
+    }
+    .all-same-title p {
+        max-width: 484px;
+        font-size: 15px; 
+    }
+
+
+    .t-members {
+        width: 100%;
+        text-align: center;
+    }
+    .t-members:nth-child(3) {
+        margin-bottom: 30px;
+    }
+    
+}
+
+@media (max-width:430px) {
+    .slider-content h1 {
+        font-size: 29px;
+    }
+
+   
+    .slider-social ul li a {
+        padding: 0px 6px;
+    }
+
+    .about-left-text {
+        right: 80px;
+    }
+
+    .call-left-text h2 {
+        font-size: 27px;
+    }
+
+    .call-right-text span {
+        width: 50px;
+        height: 50px;
+        margin-right: 16px;
+    }
+    .call-right-text a {
+        font-size: 23px;
+    }
+
+    .service-top strong {
+        font-size: 15px;
+    }
+
+    .business-items ul li p {
+        font-size: 15px;
+    }
+    .business-items ul::before {
+        height: calc(100% - 109px);
+    }
+
+    .professional-service-section {
+        padding: 45px 0;
+    }
+
+}
+
+@media (max-width:350px) {
+    .about-left-text {
+        right: 55px;
+    }
+}
